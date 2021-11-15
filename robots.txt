@@ -3,4 +3,4 @@ Disallow: /
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://smartymeals.github.com/sitemap.xml
+Sitemap: https://smartymeals.github.io/sitemap.xml
